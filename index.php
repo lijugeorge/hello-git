@@ -1,3 +1,3 @@
 <?php
 
-echo "ithu enthu koothu ";
+echo "ithu enthu koothus ";
